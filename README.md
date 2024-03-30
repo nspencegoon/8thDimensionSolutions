@@ -2,3 +2,5 @@
 8th Dimension Solutions GenAI Hackathon submission
 
 Link to our PowerPoint Presentation: https://excellaco-my.sharepoint.com/:p:/g/personal/margaret_ferrer_excella_com/EYxmjbwN2GxGt5smCbERlEYBmAnyf_2ASIqPndIuCnVD_A?e=pgWMQQ
+
+Link to our recorded presentation and demo: https://excellaco-my.sharepoint.com/:v:/g/personal/nicole_spence-goon_excella_com/EWbBbte6bDBAiqY08gUoSWAB0AQWTtZiMRUUX669jPjtvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bMpWWp
